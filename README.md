@@ -19,15 +19,16 @@ PEMULTI the Swift Sword of Password cracking and Information gathering
 - Ubuntu 18.04
 - Black Arch Linux
 
-Q & A
-Q: does this work on windows?
-A: I haven't tested yet but if it works sure but if not than I don't know how to help you
+*Q & A*
 
-Q: How long did this take you to make this all in one program?
-A: about the entire day (lets just say from when i woke up until 12:25 AM)
+- Q: does this work on windows?
+- A: I haven't tested yet but if it works sure but if not than I don't know how to help you
 
-Q: What if i run into a problem?
-A: Most likely you won't since this is suppose to be used on linux OS rather than Windows
+- Q: How long did this take you to make this all in one program?
+- A: about the entire day (lets just say from when i woke up until 12:25 AM)
+
+- Q: What if i run into a problem?
+- A: Most likely you won't since this is suppose to be used on linux OS rather than Windows
 
 
 *tuh duhhhh*
