@@ -5,7 +5,7 @@ PEMULTI the Swift Sword of Password cracking and Information gathering
 
 - git clone https://github.com/Cr7pt0nic/PEMULTI.git
 - cd PEMULTI/
-- python PEMulti.py**
+- python PEMulti.py
 
 **REQUIREMENTS**
 - metasploit framework ----> https://www.metasploit.com/download
