@@ -30,5 +30,8 @@ PEMULTI the Swift Sword of Password cracking and Information gathering
 - Q: What if i run into a problem?
 - A: Most likely you won't since this is suppose to be used on linux OS rather than Windows
 
+- Q: Before I run this program what can i expect?
+- A: a huge ass banner with 20 options to choose from. Updates coming soon. 
+
 
 *tuh duhhhh*
