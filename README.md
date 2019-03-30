@@ -31,7 +31,17 @@ PEMULTI the Swift Sword of Password cracking and Information gathering
 - A: Most likely you won't since this is suppose to be used on linux OS rather than Windows
 
 - Q: Before I run this program what can i expect?
-- A: a huge ass banner with 20 options to choose from. Updates coming soon. 
+- A: a huge ass banner with 24 options to choose from. Updates coming soon. 
+
+
+**Change Log**
+- Added new Modules and 0day exploits for security cameras
+- Added new banners for new Modules
+
+**Future Updates**
+- Possibly a new Module to create payloads and shells
+- more vulnerability scanners
+- Better Password Crackers
 
 
 *tuh duhhhh*
